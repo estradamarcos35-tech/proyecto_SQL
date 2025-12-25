@@ -11,4 +11,20 @@ TECNOLOGÍAS UTILIZADAS
 - Git/Github para el control de versiones.
 
 ¿QUÉ SE HACE EN EL PROYECTO?
-- Extracción de datos desde la fuente original
+- Extracción de datos desde la fuente original.
+- Limpieza y preparación de los datos para su análisis.
+- Ejecución de consultas SQL para:
+  - Explorar el dataset.
+  - Identificar patrones y relaciones.
+  - Realizar análisis descriptivo.
+- Uso de Python y Jupyter Notebook para documentar el proceso y apoyar el análisis.
+
+ESTRUCTURA DEL REPOSITORIO
+- *.sql Consultas SQL utilizadas para el análisis.
+- *.ipynb Notebook con el proceso de análisis y resultados.
+- *.py Scripts auxiliares en Python
+
+OBJETIVO DEL PROYECTO
+Este proyecto forma parte de mi portafolio de proyectos. Está orientado a demostrar competencias en SQL y análisis de datos aplicables a roles relacionados con base de datos.
+
+repositorio: https://github.com/estradamarcos35-tech/proyecto_SQL
